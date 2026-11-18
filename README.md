@@ -1,2 +1,3 @@
 # demoproject
-This is my first github repository
+This is my first Git repository.
+Student -Piyush Bhoyar
